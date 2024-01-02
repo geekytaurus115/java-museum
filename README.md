@@ -71,4 +71,4 @@ Hello, World!
 
 ### Summary
 
-a Java program starts execution from the `main` method, and the statements within the main method are executed sequentially. The `System.out.println` statement is a common way to output information to the console. The process involves compiling the source code into bytecode and then running the bytecode using the JVM.
+A Java program starts execution from the `main` method, and the statements within the main method are executed sequentially. The `System.out.println` statement is a common way to output information to the console. The process involves compiling the source code into bytecode and then running the bytecode using the JVM.
